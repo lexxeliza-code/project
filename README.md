@@ -12,3 +12,19 @@
 Висновки, графіки, отримані результати та аналіз.
 Мета проєкту
 Розробити та оцінити модель машинного навчання відповідно до поставленого завдання.
+ Посилання на задачі(issues)
+
+1. Написання ТЗ  
+   https://github.com/lexxeliza-code/project/issues/1
+
+2. Формування датасету  
+   https://github.com/lexxeliza-code/project/issues/2
+
+3. Вибір та запуск моделі  
+   https://github.com/lexxeliza-code/project/issues/3
+
+4. Вибір та оцінка метрик  
+   https://github.com/lexxeliza-code/project/issues/4
+
+5. Формування звіту з результатами  
+   https://github.com/lexxeliza-code/project/issues/5
